@@ -1,6 +1,6 @@
 # java-spring-dslist
 
-Bem-vindo ao repositório do projeto DSList (Dev Superior Lists) - um Intensivão Java Spring ministrado pelo renomado 
+Repositório do projeto DSList (Dev Superior Lists) - um Intensivão Java Spring ministrado pelo renomado 
 professor Nélio Alves. Neste curso, mergulhamos no mundo do desenvolvimento Java Spring e exploramos a criação de uma 
 aplicação para manipulação de uma lista de jogos de video game, juntamente com suas informações associadas. <br>
 
